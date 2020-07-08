@@ -2,6 +2,10 @@
     padding:50px 100px;
 
 }
+.container h3{
+    color:#5f5879;
+    padding-top: 15px;
+}
 .light-bg{
     background-color: #f0fff0;
 }
@@ -21,4 +25,13 @@
 }
 .illustration-img{
     width:100%;
+}
+.advertise-img{
+    width:40px;
+    height:50px;
+    
+}
+.col-md-3{
+    background-color:#f9fdf9;
+    
 }
