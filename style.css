@@ -23,7 +23,7 @@ body{
 .light-bg{
     background-color: #f0fff0;
 }
-.logo{
+.Logo{
     height:50px;
 }
 .get-started-button{
@@ -37,7 +37,7 @@ body{
 .text-green{
     color:#21b572;
 }
-.illustration-img{
+.Illustration-img{
     width:100%;
 }
 .advertise-img{
@@ -81,7 +81,7 @@ body{
 .card p{
     color:gray;
 }
-.icon{
+.ICON{
     width:20%;
 }
 .date{
@@ -96,7 +96,7 @@ body{
     width:20%;
   
 }
-.man{
+.Man{
     width:110px;
     height:110px; 
 }
