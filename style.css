@@ -5,6 +5,7 @@ body{
     padding-bottom: 50px;
 
 }
+
 .navbar{
     padding-left: 50px;
 }
@@ -121,7 +122,7 @@ body{
  .left-text{
     color:white;
 }
-.list-header a{
+.list-header{
     color:white;
 }
 .footer-container ul li a {
@@ -135,4 +136,9 @@ body{
     line-height: 30px;
     display: block;
     transition: all 0.3s ease 0s;
+}
+.footer-right-text ul li a.list-header {
+    font-size: 18px;
+    font-weight: 700;
+    display: block;
 }
